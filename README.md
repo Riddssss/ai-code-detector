@@ -229,7 +229,7 @@ curl -X POST http://127.0.0.1:5000/predict \
 
 ## 👩‍💻 Author
 
-**[Your Name]**  
+**Riddhima Shah**  **Avni Sethi**  
 BTech Project  
 Subject: Natural Language Processing — IS2
 
